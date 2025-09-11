@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activeWindow="0">
+  <PLACEMENT>01d9d0cb00030000fffffffffffffff70000077e000003f2000000000000001d0000077d000003f100000000000000000780000000000000001d0000077d000003f1</PLACEMENT>
+  <WINDOW module="ISIS" type="default" index="0" mode="00050a01"/>
+  <WINDOW module="DXP" type="default" index="0" mode="00050a01"/>
+ </FRAME>
+ <MODULE name="ISIS">
+  <debugState VALUE="AAAA/wAAAAH9AAAAAQAAAAMAAAdTAAAA+PwBAAAAC/sAAAAcAEUAZABpAHQAbwByACAAQwBvAG4AcwBvAGwAZQAAAAAA/////wAAAGsA////+wAAAEAAZABvAGMAawA6ADQAMgA5ADQAOQA2ADcAMgA5ADUAOgAwADoAUwBpAG0AdQBsAGEAdABpAG8AbgAgAEwAbwBnAgAAAAoAAAAZAAADIAAAAMj7AAAAPABkAG8AYwBrADoANAAyADkANAA5ADYANwAyADkANQA6ADEAOgBXAGEAdABjAGgAIABXAGkAbgBkAG8AdwIAAAAeAAAALQAAAV4AAADI+wAAADwAZABvAGMAawA6ADQAMgA5ADQAOQA2ADcAMgA5ADUAOgAyADoAUwB5AHMAdABlAG0AIABTAGMAbwBwAGUAAAAAIwAAB1MAAAB6AP////sAAAA8AGQAbwBjAGsAOgAyADoAMgA6AE0AUwBQADQAMwAwAFwAVgBhAHIAaQBhAGIAbABlAHMAIAAtACAAVQAyAgAAAFsAAACPAAABQAAAASz7AAAANgBkAG8AYwBrADoAMgA6ADQAOgBNAFMAUAA0ADMAMABcAE0AZQBtAG8AcgB5ACAALQAgAFUAMgIAAAAAAAAAAAAAApIAAAHP+wAAADwAZABvAGMAawA6ADIAOgAzADoATQBTAFAANAAzADAAXABSAGUAZwBpAHMAdABlAHIAcwAgAC0AIABVADICAAAAggAAAJEAAABkAAAAHvsAAAA+AGQAbwBjAGsAOgAyADoANgA6AE0AUwBQADQAMwAwAFwASQBuAHQAZQByAHIAdQBwAHQAcwAgAC0AIABVADICAAAAlwAAAMsAAAB6AAAAEPsAAABAAGQAbwBjAGsAOgA0ADIAOQA0ADkANgA3ADIAOQA1ADoAMAA6AFMAaQBtAHUAbABhAHQAaQBvAG4AIABMAG8AZwIAAAAKAAAAGQAAAGQAAAAe+wAAADwAZABvAGMAawA6ADQAMgA5ADQAOQA2ADcAMgA5ADUAOgAxADoAVwBhAHQAYwBoACAAVwBpAG4AZABvAHcCAAAAHgAAAC0AAABkAAAAHvsAAAA8AGQAbwBjAGsAOgA0ADIAOQA0ADkANgA3ADIAOQA1ADoAMgA6AFMAeQBzAHQAZQBtACAAUwBjAG8AcABlAAAAAAD/////AAAAAAAAAAAAAAdTAAADTgAAAAQAAAAEAAAACAAAAAj8AAAAAwAAAAAAAAABAAAAFABFAGQAaQB0ACAATQBvAGQAZQBzAwAAAAD/////AAAAAAAAAAAAAAACAAAABgAAAA4ATQBvAGQAdQBsAGUAcwEAAAAA/////wAAAAAAAAAAAAAAIAB2AGEAcgBpAGEAbgB0AF8AcwBlAGwAZQBjAHQAbwByAAAAAAD/////AAAAAAAAAAAAAAAcAGIAbwBhAHIAZABfAHMAZQBsAGUAYwB0AG8AcgAAAAAA/////wAAAAAAAAAAAAAAGABWAGkAZQB3ACAAVABvAG8AbABiAGEAcgEAAAIc/////wAAAAAAAAAAAAAAGABFAGQAaQB0ACAAVABvAG8AbABiAGEAcgEAAANC/////wAAAAAAAAAAAAAAHABEAGUAcwBpAGcAbgAgAFQAbwBvAGwAYgBhAHIBAAAFFv////8AAAAAAAAAAAAAAAMAAAADAAAAEgBBAG4AaQBtAGEAdABpAG8AbgEAAAAA/////wAAAAAAAAAAAAAAFABzAHQAYQB0AHUAcwBfAGIAYQByAQAAAUv/////AAAAAAAAAAAAAAAQAEMAbwBvAHIAZABCAG8AeAEAAAYb/////wAAAAAAAAAA"/>
+  <editor gridmode="2" metric="0" orgmode="0" gridminor="254000" snap="254000" gridmajor="2540000" xcursor="0" scale="171" flipped="0" snapidx="2" snaprange="127000" zoom="-1">
+   <centre y="-762000" x="4318000"/>
+   <origin y="0" x="0"/>
+   <world y2="8890000" x1="-12700000" x2="12700000" y1="-8890000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMEDIT">
+  <EDITOR/>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP flags="00000082" h="30" pid="0" iid="-1" y="25" w="100" x="10">
+    <PROPERTIES>
+     <ITEM name="Message Column Width">580</ITEM>
+     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="Source Column Width">100</ITEM>
+     <ITEM name="Time Column Width">120</ITEM>
+     <ITEM name="Version">100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP flags="000000b2" h="30" pid="1" iid="-1" y="45" w="100" x="30">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">100</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">100</ITEM>
+     <ITEM name="Previous Value Column Width">100</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">Yes</ITEM>
+     <ITEM name="ShowTypes">Yes</ITEM>
+     <ITEM name="ShowWatchPoint">Yes</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Type Column Width">100</ITEM>
+     <ITEM name="Value Column Width">100</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">100</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP flags="000000a2" h="200" pid="2" iid="-1" y="65" w="800" x="50">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP flags="0000000b" h="400" pid="1" iid="2" y="85" w="600" x="70">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP flags="0000000b" h="300" pid="2" iid="2" y="105" w="320" x="90">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">100</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">100</ITEM>
+     <ITEM name="Previous Value Column Width">100</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowGlobals">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">Yes</ITEM>
+     <ITEM name="ShowTypes">Yes</ITEM>
+     <ITEM name="ShowWatchPoint">No</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Type Column Width">100</ITEM>
+     <ITEM name="Value Column Width">100</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">0</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP flags="0000000a" h="30" pid="4" iid="2" y="0" w="100" x="0">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP flags="00000008" h="10" pid="3" iid="2" y="0" w="39" x="0">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP flags="00000019" h="10" pid="6" iid="2" y="0" w="10" x="0">
+    <PROPERTIES/>
+   </POPUP>
+  </PWI>
+ </MODULE>
+ <MODULE name="ARES">
+  <editor gridmode="2" metric="1" orgmode="0" gridminor="0" snap="0" gridmajor="0" xcursor="0" scale="10" flipped="0" snapidx="3" snaprange="0" zoom="10">
+   <centre y="0" x="0"/>
+   <origin y="0" x="0"/>
+   <world y2="12700000" x1="-15240000" x2="15240000" y1="-12700000"/>
+  </editor>
+ </MODULE>
+</WORKSPACE>
