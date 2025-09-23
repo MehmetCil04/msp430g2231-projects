@@ -46,5 +46,8 @@ Amaç, sıcaklık bilgisini kolay bir şekilde **renkli LED göstergesi** ile if
 - **Dahili-Sicaklik-Sensoru.pdsprj** → Proteus devre dosyası (örnek isim)  
 - **README.md** → Bu açıklama dosyası  
 
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/482b6f32-6cda-4276-a40b-67fa527b91ae" />
+
+
 ## Lisans
 Bu proje eğitim amaçlıdır. İsteyen herkes geliştirebilir ve kullanabilir.
